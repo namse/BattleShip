@@ -1,0 +1,3 @@
+[submodule "src/NNGameFramework"]
+	path = src/NNGameFramework
+	url = https://github.com/kciter/NNGameFramework.git
